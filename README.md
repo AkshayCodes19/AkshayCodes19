@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay
-- 👀 I’m interested in coding using computer languages such as python and jupyter.
+- 👀 I’m interested in coding using computer languages such as python and Pig riding.
 
 <!---
 AkshayCodes19/AkshayCodes19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
